@@ -1,0 +1,1 @@
+../../../../use-cases/reward-token-staking/contracts/RewardToken.sol
